@@ -1,0 +1,17 @@
+* {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.image {
+    width: 30px;
+}
+
+.profile-container {
+    width: 300px;
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid lightskyblue;
+}
